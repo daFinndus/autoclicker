@@ -1,0 +1,3 @@
+# Remove the venv and the .idea folder from the repository
+.idea
+.venv
